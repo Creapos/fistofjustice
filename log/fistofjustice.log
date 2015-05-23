@@ -1,0 +1,12 @@
+
+#########Switching IP###########
+Nov 27 23:16:15.610 [notice] Tor v0.2.4.24 (git-e3c61213fb2dc49a) running on Linux with Libevent 2.0.19-stable and OpenSSL 1.0.1e.
+Nov 27 23:16:15.611 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://www.torproject.org/download/download#warning
+Nov 27 23:16:15.612 [notice] Read configuration file "/etc/tor/torrc".
+Nov 27 23:16:15.615 [notice] Opening Socks listener on 127.0.0.1:9050
+Nov 27 23:16:15.615 [warn] Could not bind to 127.0.0.1:9050: Address already in use. Is Tor already running?
+Nov 27 23:16:15.615 [notice] Opening Control listener on 127.0.0.1:9051
+Nov 27 23:16:15.615 [warn] Could not bind to 127.0.0.1:9051: Address already in use. Is Tor already running?
+Nov 27 23:16:15.615 [warn] Failed to parse/validate config: Failed to bind one of the listener ports.
+Nov 27 23:16:15.615 [err] Reading config failed--see warnings above.
+#########Switching IP###########

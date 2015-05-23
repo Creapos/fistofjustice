@@ -1,0 +1,11 @@
+#!/bin/bash
+x=1
+while [ $x -le 2 ] 
+do
+	for i in {15000..15020} 
+	do
+		(echo authenticate '""'; echo signal newnym; echo quit) | nc localhost $i
+	done
+	echo "Switched ips"
+	sleep 30 
+done
