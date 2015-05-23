@@ -171,7 +171,7 @@ if __name__ == "__main__":
     print "\n/*"
     print " *"+term.RED + "  Fist of justice copied by Torshammer.py "+term.NORMAL
     print " * HTTP DoS Testing Tool"
-    print " * info@prosec-networks.com"
+    print " * k5rby_anon@mail2tor.com"
     print " * Anonymized via Tor"
     print " */\n"
 
