@@ -4,4 +4,4 @@
 3. Copy proxychains.conf to /etc/proxychains.conf 
 4. start ./fistofjustice 
 
-# Count of forks equals count of IP's. 
+The Count of forks equals count of IP's. 
